@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi Prakhar here, 👋
 # 💫 About Me:
 🧠 Computer Science student | Java & Spring Boot developer  <br>🌌 Building themed desktop apps and scalable backend systems  <br>⚙️ Java • Spring Boot • REST APIs • JPA • PostgreSQL  <br>🎥 Creating content around coding, backend design & UI  <br>🪻 Projects, tutorials & resources available on my GitHub<br>
 
